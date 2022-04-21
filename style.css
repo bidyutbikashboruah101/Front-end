@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@300&family=Open+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@300&family=Open+Sans&display=swap');
 
 
 .satajaanFont
@@ -8,4 +7,39 @@
     top: 30px;
     left: 50%;
     font-size: large;
+} */
+
+.firstInfo
+{
+    text-align: justify;
+}
+
+.secondInfo
+{
+    text-align: justify;
+}
+
+.container2
+{
+    text-align: center;
+}
+
+.point-at-issue-info
+{
+   text-align: justify;
+}
+
+.tone-down-info
+{
+    text-align: justify;
+}
+
+.bird-warrior-info
+{
+    text-align: justify;
+}
+
+.title
+{
+    color: #FDCC22;
 }
